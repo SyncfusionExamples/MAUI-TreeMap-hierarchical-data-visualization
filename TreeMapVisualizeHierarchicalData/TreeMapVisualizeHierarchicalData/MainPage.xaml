@@ -44,8 +44,5 @@
         </treemap:SfTreeMap>
        
     </Grid>
-    <ContentPage.Behaviors>
-        <local:LevelBehavior />
-    </ContentPage.Behaviors>
 
 </ContentPage>
