@@ -13,7 +13,7 @@ namespace TreeMapVisualizeHierarchicalData
         #region Constructor
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="ViewModel"/> class.
+        /// Initializes a new instance of the <see cref="PopulationViewModel"/> class.
         /// </summary>
         public PopulationViewModel()
         {

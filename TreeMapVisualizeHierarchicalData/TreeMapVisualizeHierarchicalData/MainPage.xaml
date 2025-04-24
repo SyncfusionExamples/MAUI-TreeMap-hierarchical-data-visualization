@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:treemap="clr-namespace:Syncfusion.Maui.TreeMap;assembly=Syncfusion.Maui.TreeMap"
              xmlns:local="clr-namespace:TreeMapVisualizeHierarchicalData"
-             x:Class="TreeMapVisualizeHierarchicalData.MainPage">
+             x:Class="TreeMapVisualizeHierarchicalData.MainPage"
+             x:DataType="local:PopulationViewModel">
 
     <ContentPage.BindingContext>
         <local:PopulationViewModel />
